@@ -3,6 +3,9 @@ JRE Lisp Runtime - A common lisp implementing the clapi java api
 
 This is the jrelisp application front-end.
 
+## Status
+
+This project is not under active development and is only provided for achival purposes.  This code is not suitable for any particular purpose and is released under the MIT licence to do with as you please.
 
 ## Installing
 
