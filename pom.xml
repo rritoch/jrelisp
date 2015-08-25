@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.vnetpublishing.lisp</groupId>
   <artifactId>jrelisp</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2</version>
   <name>JRE Lisp</name>
   <description>Java Common Lisp Implementation</description>
   
@@ -74,12 +74,12 @@
 		<dependency>
 			<groupId>com.vnetpublishing.lisp</groupId>
 			<artifactId>jrelisp-abcl-impl</artifactId>
-			<version>0.0.1</version>
+			<version>0.0.2</version>
 		</dependency>
 		<dependency>  
 			<groupId>com.vnetpublishing.lisp</groupId>
 			<artifactId>jrelisp-abcl-contrib</artifactId>
-			<version>0.0.1</version>
+			<version>0.0.2</version>
 		</dependency>
 		<dependency>  
 			<groupId>com.vnetpublishing.lisp</groupId>
