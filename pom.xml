@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.vnetpublishing.lisp</groupId>
   <artifactId>jrelisp</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3-SNAPSHOT</version>
   <name>JRE Lisp</name>
   <description>Java Common Lisp Implementation</description>
   
