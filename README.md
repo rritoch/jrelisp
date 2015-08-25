@@ -5,7 +5,10 @@ This is the jrelisp application front-end.
 
 ## Status
 
-This project is not under active development and is only provided for achival purposes.  This code is not suitable for any particular purpose and is released under the MIT licence to do with as you please.
+As of the date of the release of v0.0.2 this implementation passed all
+ansi conformance tests on the trunk of the ansi-tests repository.
+
+This code is not suitable for any particular purpose and is released under the MIT licence to do with as you please.
 
 ## Installing
 
