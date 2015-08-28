@@ -27,4 +27,4 @@ For embedding jrelisp in your applications see [jrelisp-core](https://github.com
 
 ## Developers
 
-Any developers are welcome to join our [mailing list](https://groups.google.com/forum/#!forum/jrelisp) and we welcome contributions as this is a community project. You can also visit us on the freenode IRC channel #jrelisp  (irc://chat.freenode.net/#jrelisp).
+Any developers are welcome to join our [mailing list](https://groups.google.com/forum/#!forum/jrelisp) and we welcome contributions as this is a community project. You can also visit us on the freenode IRC channel #jrelisp  (irc://chat.freenode.net/jrelisp).
